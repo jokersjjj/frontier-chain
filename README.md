@@ -4,6 +4,7 @@
 
 ---
 
+
 ## Setup
 
 Initialize the blockchain with one validator node:
